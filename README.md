@@ -1,15 +1,15 @@
-# Hi 👋, I'm Hao Yu
+# Hi 👋, I'm Barry
 
 ### A passionate developer for high-throuput experimental data-collection/analysis!
 
 
 - 🔭 I'm currently working on **a AI-assited python package for analysing Raman and PL spectrum data -- for low-dimentional materials!**
 
-- 🌱 I'm currently learning **Agentic workflow**
+- 🌱 I'm currently learning **agentic AI workflow**
 
-- 👯 I'm looking to collaborate on **Computer vision for microscopy!**
+- 👯 I'm looking to collaborate on **computer vision for microscopy!**
 
-- 🤝 I'm looking for help with **Experimental data storage**
+- 🤝 I'm looking for help with **experimental data storage**
 
 - 💬 Ask me about **Python,**
 
